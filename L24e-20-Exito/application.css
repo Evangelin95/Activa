@@ -1,0 +1,1022 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+#general-box b {
+  font-family: 'Lato', sans-serif !important;
+  font-weight: 900 !important;
+}
+
+/* INICIO - HEADER */
+
+#general-box .head-lenovo {
+  background: #ffffff;
+  width: 100%;
+  text-align: center;
+}
+
+#general-box .head-text-lenovo {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  background-color: #fc0c04;
+  padding: 1%;
+  font-weight: 400;
+}
+
+/* INICIO - BANNER */
+
+#general-box .container-lenovo {
+  max-width: 1000px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+#general-box .masthead-img {
+  height: auto;
+  display: block;
+  padding: 21.5% 0 23.5% 0;
+  margin-left: 14%;
+}
+
+#general-box .content-lenovo {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  padding-top: 4%;
+  padding-right: 4%;
+}
+
+#general-box .masthead {
+  position: relative;
+  width: 100%;
+  height: 542.0239px;
+  /*display: table-caption;*/
+  background-image: url(img/header-L24i.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#general-box .sub-container {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#general-box .content-wrap-lenovo {
+  position: relative;
+  margin-left: 14%; /*vivi*/
+  margin-top: -13%;
+}
+
+#general-box .content-wrap-lenovo .text-two-lenovo {
+  margin: 97px 0 20px 0;
+}
+
+#general-box .content-wrap-lenovo .text-cero-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  line-height: 1;
+  color: #ffffff;
+  margin-bottom: 2%;
+  margin-top: 27%;
+}
+
+#general-box .light-title-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: -2px;
+}
+
+#general-box .content-wrap-lenovo .text-cero1-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 29px;
+  line-height: 1.25;
+  color: #000000;
+  margin-bottom: 3%;
+  margin-top: 0;
+  width: 108%;
+  padding-top: 6px;
+
+}
+
+#general-box .content-wrap-lenovo .text-cero2-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 1.25;
+  color: #ffffff;
+  margin-bottom: 9%;
+  margin-top: 0;
+  width: 108%;
+  padding-top: 5%;
+
+}
+
+#general-box .lenovo-logo {
+  position: absolute;
+  right: 0%;
+  top: 56px;
+  width: 213.6604px;
+  max-width: 213.6604px;
+}
+
+/* INICIO - SECTION#2 */
+
+#general-box .section-2 {}
+
+#general-box .description-wrap-centered {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  color: #ffffff !important;
+  padding: 7% 0px 5% 0px;
+}
+
+#general-box .product-description-2 .description-wrap-centered h2,
+#general-box .text-section-4 h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  color: #000000;
+  letter-spacing: 0px;
+}
+
+#general-box .product-description-2 .description-text-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+  letter-spacing: 0px;
+  width: 58%;
+  margin: 0 auto;
+}
+
+/* INICIO - SECTION#3 */
+
+#general-box .section-3 {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -o-flex-direction: column;
+  flex-direction: column;
+  background-size: cover;
+  background-position: top center;
+}
+
+#general-box .section-3 .description-image-lenovo img {
+  display: block;
+  float: right;
+}
+
+#general-box .section-3 .features img {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#general-box .superimpose {
+  position: relative;
+}
+
+#general-box .pb-3 {
+  padding-bottom: 3%;
+}
+
+#general-box .pr-4 {
+  padding-right: 4%;
+}
+
+/* INICIO - SECTION#4 */
+
+#general-box .section-4 {
+  background-image: url(img/01-backgrounds-L24i.jpg);
+  background-size: cover;
+  background-position: top center;
+}
+
+#general-box .text-section-4 {
+  /*padding: 0% 5% 46% 12%;*/
+    padding: 24% 5% 0% 12%;
+}
+
+/* INICIO - SECTION#5 */
+#general-box .section-5 {
+  /*padding-bottom: 8%;*/
+  padding-bottom: 0%;
+  padding-top: 12%;
+}
+
+#general-box .section-5 .description-wrap-lenovo {
+  width: 45%;
+  padding-left: 6%;
+}
+
+#general-box .description-image-lenovo-icons {
+  width: 50%;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  line-height: 1.3;
+  color: #000000;
+  padding-left: 6%;
+  font-weight: 400 !important;
+  padding-top: 5%;
+}
+
+#general-box .brain-icon {
+  height: 63px;
+}
+
+/*ICONS */
+#general-box .brain-icon {
+  padding-bottom: 32px;
+
+}
+
+
+
+#general-box .brain-icon img,
+#general-box .energy-icon img {
+  float: left;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+#general-box .energy-icon {}
+
+#general-box .brain-icon img,
+#general-box .energy-icon img {
+  float: left;
+  padding-right: 10px;
+}
+
+#general-box .brain-icon p,
+#general-box .energy-icon p {
+  padding-top: 5px;
+}
+
+#general-box .product-description-lenovo {
+  position: relative;
+}
+
+#general-box .product-row-lenovo {
+  display: flex;
+  position: relative;
+  font-family: 'Lato', sans-serif;
+}
+
+#general-box .product-description-1 .description-title-lenovo {
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  line-height: 1;
+  color: #ffffff;
+}
+
+#general-box .product-description-2 .description-title-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 45px;
+  line-height: 1;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+#general-box .description-text-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #ffffff;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+#general-box .description-wrap-lenovo {
+  width: 50%;
+}
+
+#general-box .text-section-4 h1,
+#general-box .text-section-4-1 h1,
+#general-box .text-section-4-1-1 h1,
+#general-box .text-section-4-2 h1,
+#general-box .text-section-4-3 h1,
+#general-box .text-section-4-3-3 h1 {
+  font-size: 32px;
+  line-height: 1;
+  padding-bottom: 5%;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+#general-box .sub-section-left .description-image-lenovo {
+  width: 50%;
+  box-sizing: border-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  align-items: center;
+  margin-right: 4%;
+  margin-top: 7%;
+}
+
+#general-box .sub-section-left-3 .description-image-lenovo {
+  width: 50%;
+  box-sizing: border-box;
+  display: flex;
+}
+
+#general-box .sub-section-left .description-image-lenovo img,
+#general-box .sub-section-left-2 .description-image-lenovo img {
+  margin: auto;
+}
+
+#general-box .sub-section-left-3 .description-image-lenovo img {
+  margin: auto 4% auto auto;
+}
+
+#general-box .sub-section-left-3 {
+  padding-top: 7%;
+}
+
+
+#general-box .sub-section-left-2 .description-image-lenovo img {
+  padding-right: 0%;
+}
+
+#general-box .sub-section-left-2 .description-image-lenovo {
+  width: 48%;
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+}
+
+#general-box .sub-section-left-2 {
+  padding-top: 1%;
+}
+
+/* INICIO - SECTION#4-2 */
+.iconos.col-col-md-6 {
+  text-align: right;
+  margin-right: 4%;
+  margin-top: 4%;
+}
+
+#general-box .text-section-4-1 {
+
+  padding: 7% 1% 0% 6%;
+}
+
+#general-box .text-section-4-1-1 {
+  padding: 8% 9% 0% 0%;
+}
+
+#general-box .text-section-4-2 {
+
+  padding: 0% 3% 0% 6%;
+}
+
+
+/* INICIO - SECTION#4-3 */
+
+#general-box .product-row-lenovo .section-4-3 {
+  /*width: 50%;*/
+  width: 67%;
+}
+
+#general-box .text-section-4-3 {
+  padding: 13% 0% 0% 16%;
+}
+
+#general-box .text-section-4-3-3 {
+  padding: 0% 11% 20% 12%;
+}
+
+
+#general-box .pad-section-4-3 {
+  position: relative;
+  padding-top: 8%;
+  padding-top: 0%;
+  padding-left: 0%;
+}
+.description-image-lenovo.pad-section-4-4 {
+  margin-top: 0%;
+  margin-right: 4%;
+}
+
+#general-box .exactly-height {
+  height: 300px;
+}
+
+
+#general-box .foot {
+  background: #f04187;
+  padding: 15px 6%;
+  text-align: center;
+}
+
+#general-box .foot-text {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #f3f3f3;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+#general-box .text-section-two {
+  padding-left: 6%;
+}
+
+#general-box .pad-section-two {
+  position: relative;
+  top: 37%;
+  left: 24%;
+}
+
+#general-box .description-text-lenovo b {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+
+#general-box h2.description-title-lenovo {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 45px;
+  line-height: 1;
+  color: #1c1c1b;
+  margin-bottom: 20px;
+}
+
+#general-box .show-xs {
+  display: none;
+}
+
+#general-box .show-sm {
+  display: none;
+}
+
+#general-box .processor-desktop {
+  max-width: 370px;
+}
+
+
+#general-box .main-icons {
+  width: 50%;
+  box-sizing: border-box;
+
+}
+
+#general-box .main-icons:nth-child(1) {
+  padding-left: 8%;
+}
+
+
+#general-box .dolby-icon {
+  float: right;
+  position: absolute;
+  right: 17%;
+  bottom: 26%;
+}
+
+
+@media only screen and (max-width: 780px) {
+
+.description-image-lenovo.portatil {
+    padding-left: 9%;
+    width: 47% !important;
+    margin-top: 2% !important;
+
+}
+
+#general-box .masthead {
+  position: relative;
+  width: 100%;
+  height: 411.659px;
+  /*display: table-caption;*/
+  background-image: url(img/header-L24i.png);
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#general-box .content-wrap-lenovo .text-cero1-lenovo {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #000000;
+    margin-bottom: 3%;
+    margin-top: 0;
+    width: 108%;
+    padding-top: 6px;
+}
+#general-box .content-wrap-lenovo {
+  position: relative;
+  margin-left: 5%;
+  margin-top: 7%;
+}
+#general-box .logo-lenovo {
+  position: absolute;
+  right: 0%;
+  top: 31px;
+  width: 30%;
+  max-width: 257px;
+}
+
+  #general-box iframe{
+    height: 50vh;
+  }
+   #general-box i{
+    font-size: 12px !important;
+  }
+  
+  
+  #general-box .show-mandatory {
+    display: block !important;
+  }
+
+  #general-box .description-text-lenovo {
+    font-size: 14px;
+    line-height: 1.3;
+  }
+  #general-box .text-section-4-1{
+    padding: 20% 2% 17% 6%;
+  }
+
+  #general-box .text-section-4-3-3 {
+    padding: 21% 0% 0% 14%;
+  }
+  #general-box .text-section-4-3{
+    padding-top: 21% !important;
+  }
+
+  #general-box .specs-icons {
+    padding-top: 25px;
+    padding-left: 18%;
+  }
+   #general-box .specs-icons-2 {
+    padding-top: 15px;
+  }
+  #general-box .sub-section-left-2 .description-image-lenovo img{
+    margin: auto auto auto 0 !important;
+    padding-right: 0;
+    padding-top: 0%;
+    padding-bottom: 2%;
+  }
+
+  #general-box .product-description-2 .description-wrap-centered h2,
+  #general-box .text-section-4 h1 {
+    font-size: 22px;
+  }
+
+  #general-box .section-3 {
+    top: -35px;
+  }
+  #general-box .section-5{
+   padding-top: 22%; 
+    padding-bottom: 20%;
+  }
+
+  #general-box .product-row-lenovo {
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+    justify-items: center;
+    width: 100%;
+  }
+
+
+  #general-box .dolby-icon {
+    position: relative;
+  }
+
+  #general-box .sub-container {
+    -webkit-flex-direction: row-reverse;
+    -moz-flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    -o-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+
+  }
+
+  #general-box .sub-section-left .description-image-lenovo,
+  #general-box .sub-section-left-2 .description-image-lenovo,
+  #general-box .sub-section-left-3 .description-image-lenovo {
+    width: auto;
+    top: 0;
+  }
+  #general-box .section-4{
+    background-image: url(img/fondomobile.png);
+  }
+
+  h1.description-title-lenovo.responsive-margin {
+    padding-left: 1% !important;
+}
+
+  #general-box .text-section-4 h1,
+  #general-box .text-section-4-1 h1,
+  #general-box .text-section-4-1-1 h1,
+  #general-box .text-section-4-2 h1,
+  #general-box .text-section-4-3 h1,
+  #general-box .text-section-4-3-3 h1,
+  #general-box .product-description-1 .description-title-lenovo{
+    font-size: 26px !important;
+  }
+
+  #general-box .show-sm {
+    display: block;
+    margin-left: -17% !important;
+  }
+
+  #general-box .referencia {
+    width: 72%;
+  }
+
+  /*ICONS */
+  #general-box .description-image-lenovo-icons {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 9%;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 400 !important;
+    padding-left: 0;
+  }
+
+  #general-box .energy-icon {
+    float: left;
+  }
+
+
+  #general-box .main-icons:nth-child(1) {
+    padding-left: 0;
+  }
+
+  #general-box .main-icons {
+    width: 83%;
+    margin: 0 auto;
+  }
+
+  #general-box .margin-auto {
+    margin: 0 auto;
+    display: block;
+  }
+
+  #general-box .horizontal-padding-off {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #general-box .pb-sm-6 {
+    padding-bottom: 6%;
+  }
+
+  #general-box .pb-sm-20 {
+    padding-bottom: 20%;
+  }
+
+  #general-box .padding-image {
+    padding: 17% 0 7% 50%;
+  }
+  #general-box .text-section-4-1-1{
+    padding-top: 3%;
+  }
+
+  #general-box .padding-image-2 {
+    padding: 4% 0 15% 0;
+  }
+  #general-box .padding-image-3 {
+    padding: 0% 0 2% 0;
+  }
+
+  #general-box .scale-img {
+    width: 91%;
+    max-width: max-content !important;
+  }
+
+  #general-box .scale-img-2 {
+    width: 72%;
+    max-width: max-content !important;
+    margin-top: 9% !important;
+  }
+  #general-box .scale-img-3 {
+    width: 83%;
+    max-width: max-content !important;
+  }
+   #general-box .scale-img-4 {
+    width: 70%;
+    max-width: max-content !important;
+  }
+   #general-box .scale-img-5 {
+    width: 74%;
+    max-width: max-content !important;
+  }
+
+  
+  #general-box .hidden-sm {
+    display: none !important;
+  }
+
+  #general-box .superimpose {
+    top: 0;
+  }
+
+  #general-box .description-wrap-centered {
+    width: 87%;
+    padding: 14% 0px 10px 0px;
+  }
+
+  #general-box .processor-desktop {
+    width: 67%;
+  }
+
+  #general-box .pt-sm {
+    padding-top: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+  /* INICIO - SECTION#4 */
+
+  #general-box .section-4 > .sub-section-4-1 {
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+  }
+
+  #general-box .responsive-margin {
+    padding-left: 7%;
+    padding-right: 7%;
+    box-sizing: border-box;
+  }
+
+  #general-box .responsive-margin-2 {
+    padding-left: 6%;
+    padding-right: 6%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  #general-box .vertical-padding-cero {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  #general-box .align-image-left {
+    margin-left: 0 !important;
+  }
+
+  /* INICIO - SECTION#4.1 */
+
+
+  #general-box .text-section-4 h1 {
+    padding-top: 8%;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+
+  /* INICIO - SECTION#4.3 */
+
+  #general-box .product-row-lenovo .section-4-3 {
+    width: 100%;
+  }
+
+  #general-box .sub-section-left {
+  }
+  #general-box .sub-section-left-3{
+    padding-top: 0;
+  }
+
+  #general-box .sub-section-left-3 {
+    -webkit-flex-direction: column !important;
+    -moz-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    -o-flex-direction: column !important;
+    flex-direction: column !important;
+  }
+
+  #general-box .exactly-height {
+    height: auto;
+  }
+
+  #general-box .pad-section-4-3 {
+    top: 0;
+    padding-left: 0;
+    padding-top: 0;
+  }
+
+
+  #general-box .entertainment {
+    height: auto;
+  }
+
+  #general-box .content-wrap-lenovo .text-cero2-lenovo {
+    font-size: 17px;
+    /*width: 100%;*/
+    margin-bottom: 79%;
+  }
+
+  #general-box .head-text-lenovo {
+    padding: 2% 6%;
+    font-size: 9px;
+  }
+
+  #general-box .container-lenovo {
+    background-position: initial;
+  }
+
+  #general-box img {
+    max-width: 100%;
+  }
+
+  #general-box .grid-row-frist {
+    position: relative;
+    top: 0px;
+  }
+
+  #general-box #ideapad-s145 {
+    max-width: 100%;
+    width: 80%;
+  }
+
+  #general-box #processor {
+    max-width: 60%;
+  }
+
+  #general-box .text-two-lenovo img {
+    padding: 0% 0 23% 0;
+  }
+
+  #general-box .lenovo-logo {
+    width: 30%;
+    top: 27px;
+  }
+
+  #general-box .masthead picture {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+  }
+
+  #general-box .masthead-img {
+    margin: auto;
+    top: 41%;
+    width: 55%;
+    position: absolute;
+    right: 7%;
+    float: right;
+    padding: 0;
+  }
+
+  #general-box .product-description-2 .description-text-lenovo {
+    font-size: 14px !important;
+    margin: 0 auto;
+    text-align: center;
+    width: 95%;
+    padding-bottom: 10px;
+  }
+
+  #general-box .grid-row-first {
+    grid-row-start: 1;
+  }
+
+  #general-box .desktop-icons {
+    display: none !important;
+  }
+
+  #general-box .section-two {
+    height: auto;
+  }
+
+  #general-box .pad-section-two {
+    position: relative;
+    margin-top: 23% !important;
+    left: 0% !important;
+  }
+
+  #general-box .description-wrap-centered {
+    text-align: center;
+  }
+
+  #general-box .content-lenovo {
+    position: relative;
+    width: 100%;
+    padding-left: 7%;
+    padding-right: 26%;
+    padding-bottom: 20%;
+    box-sizing: border-box;
+    padding-top: 13%;
+  }
+
+  #general-box .masthead {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    -webkit-flex-direction: column-reverse;
+    -moz-flex-direction: column-reverse;
+    -ms-flex-direction: column-reverse;
+    -o-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+    background-position: center;
+  }
+
+  #general-box .content-wrap-lenovo .text-cero-lenovo {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    margin-top: 16%;
+  }
+
+  #general-box .content-wrap-lenovo {
+    max-width: 100%;
+  }
+
+  #general-box .product-row-lenovo {
+    -webkit-flex-direction: column;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -o-flex-direction: column;
+    flex-direction: column;
+    justify-items: center;
+    width: 100%;
+  }
+
+  #general-box .description-wrap-lenovo {
+    width: 100% !important;
+  }
+
+  #general-box .p-justify-left .description-image-lenovo,
+  #general-box .pd-second .p-justify-left .description-image-lenovo,
+  #general-box .pd-second .p-justify-right .description-image-lenovo,
+  #general-box .pd-first .p-justify-left .description-image-lenovo,
+  #general-box .pd-first .p-justify-right .description-wrap-lenovo {
+    margin: 0;
+  }
+
+  #general-box .pd-first .p-justify-left img {
+    display: block;
+    margin: 0 auto;
+  }
+  img.scale-img-4.portatildia {
+    padding-right: 0%;
+    padding-left: 9%;
+    padding-top: 6%;
+}
+img.scale-img-3.portatilSSD {
+  padding-right: 7%;
+}
+
+  #general-box br {
+    display: none;
+  }
+  img.iconoimagenes {
+    margin-left: 1% !important;
+}
+}
+
+@media screen and (max-width: 660px) {}
+
+@media screen and (max-width: 420px) {
+  #general-box .hidden-xs {
+    display: none;
+  }
+
+  #general-box .show-xs {
+    display: block;
+  }
+
+}
