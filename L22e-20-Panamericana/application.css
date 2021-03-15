@@ -632,7 +632,7 @@
     top: 0;
   }
   #general-box .section-4{
-    background-image: url(img/fondomobile.png);
+    /*background-image: url(img/fondomobile.png);*/
   }
 
   h1.description-title-lenovo.responsive-margin {
@@ -712,7 +712,7 @@
     padding: 4% 0 15% 0;
   }
   #general-box .padding-image-3 {
-    padding: 0% 0 2% 0;
+    padding: 0% 0 3% 0;
   }
 
   #general-box .scale-img {
